@@ -52,9 +52,6 @@ The **Gradio interface** will launch, allowing you to enter text and generate sp
 4. Enter text and click **Generate Speech**.
 5. Listen to the generated speech in the output audio player.
 
-## 🖼️ Example Gradio UI
-*(Insert Screenshot Here)*
-
 ## 🛠️ Troubleshooting
 - Ensure you have a valid **OpenAI API Key**.
 - Check that your **internet connection** is active.
