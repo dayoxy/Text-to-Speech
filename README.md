@@ -65,8 +65,8 @@ Contributions are welcome! If you have improvements, please submit a pull reques
 
 ## 📬 Contact
 For any questions or collaborations:
-- **GitHub**: [@your-username](https://github.com/your-username)
-- **Email**: your-email@example.com
+- **GitHub**: [@dayoxy](https://github.com/dayoxy)
+- **Email**: Adedayom70@gmail.com
 
 ---
 ### ⭐ If you find this project useful, please give it a star! ⭐
